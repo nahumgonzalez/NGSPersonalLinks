@@ -21,7 +21,8 @@ body {
             display: flex;
             justify-content: center;
             flex-wrap: wrap;
-            margin: auto;
+            margin-top: 0px;
+            margin-bottom: auto;
         }
 
         nav a {
